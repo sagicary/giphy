@@ -1,3 +1,4 @@
+/*Codigo Js*/
 $(document).ready(function(){
 	var dibujarGifs = function(data){
 		var gif = "";
